@@ -5,49 +5,49 @@ import { motion } from 'framer-motion';
 const REVIEWS = [
   {
     id: 1,
-    text: "Il trattamento laser a diodo è stato una rivelazione. Indolore e super efficace fin dalla prima seduta. Finalmente ho risolto il problema dei peli superflui!",
+    text: "Sinfonia è diventata la mia isola di tranquillità. Il percorso laser è stato impeccabile: professionale, indolore e con risultati straordinari fin da subito.",
     author: "Sofia L.",
     role: "Cliente Fedele",
     avatar: "/facial-treatment.png"
   },
   {
     id: 2,
-    text: "Adoro la filosofia 100% green del centro. I prodotti bio che utilizzano per il viso hanno ridonato luminosità alla mia pelle senza irritarla. Fantastico!",
+    text: "Cercavo un centro che rispettasse la mia pelle e l'ambiente. La consulenza skin care e i prodotti Green che utilizzano hanno rigenerato il mio viso.",
     author: "Elena M.",
     role: "Appassionata Bio",
     avatar: "/bio-products.png"
   },
   {
     id: 3,
-    text: "Le unghie più belle che io abbia mai avuto. La precisione e la creatività nel nail design sono davvero di un altro livello. Lo consiglio a tutte!",
+    text: "Non semplici unghie, ma dettagli di puro stile. La precisione e la cura del dettaglio nel nail design qui sono davvero di un altro livello commerciale.",
     author: "Martina D.",
     role: "Nail Lover",
     avatar: "/manicure.png"
   },
   {
     id: 4,
-    text: "Sempre puntuali e professionali per l'estetica di base. La ceretta è delicatissima e l'ambiente è super rilassante. Un vero momento di coccola.",
+    text: "Ho finalmente trovato il posto dove l'estetica incontra il vero benessere. Anche un massaggio qui diventa un'esperienza rigenerante e profonda.",
     author: "Giulia S.",
     role: "Cliente Abituale",
     avatar: "/laser-treatment.png"
   },
   {
     id: 5,
-    text: "Ho provato il trattamento corpo green e mi sono sentita rigenerata. Sapere che usano solo prodotti naturali mi fa stare molto più tranquilla.",
+    text: "Il programma di rimodellamento corpo è straordinario. Non solo per i risultati visibili, ma per come mi sento energica e in armonia con me stessa.",
     author: "Chiara B.",
-    role: "Freelance",
+    role: "Premium Member",
     avatar: "/hero-1.png"
   },
   {
     id: 6,
-    text: "Professionalità e cortesia. Il laser a diodo qui è davvero il top del settore. Risultati garantiti e staff preparatissimo.",
+    text: "Professionalità e cortesia fuori dal comune. L'approccio di Sinfonia è olistico e moderno, perfetto per chi cerca il meglio per la propria cura.",
     author: "Paola L.",
     role: "Manager",
     avatar: "/hero-2.png"
   },
   {
     id: 7,
-    text: "Il miglior centro estetico della zona per chi cerca qualità e rispetto per l'ambiente. Unghie perfette e pelle radiosa!",
+    text: "Un'eccellenza rara nel territorio. Qui non si riceve solo un trattamento, ma un vero senso di equilibrio e bellezza autentica. Consigliatissimo.",
     author: "Francesca R.",
     role: "Insegnante",
     avatar: "/hero-4.png"
