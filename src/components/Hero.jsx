@@ -111,7 +111,7 @@ function ServicePill({ name, img, scale }) {
           letterSpacing: isMobileScale ? '0.1em' : '0.1em',
           textTransform: 'uppercase',
           writingMode: 'vertical-rl',
-          textOrientation: 'mixed',
+          textOrientation: 'upright',
           userSelect: 'none',
           whiteSpace: 'nowrap',
           flex: 1,
