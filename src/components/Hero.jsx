@@ -222,7 +222,7 @@ export default function Hero({ isMenuOpen }) {
                 letterSpacing: isMobile ? '-0.02em' : '-0.02em'
               }}
             >
-              L'Armonia della tua Bellezza
+              Ritrova l'equilibrio
             </motion.h1>
 
             <motion.p
